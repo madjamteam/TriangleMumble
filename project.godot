@@ -15,5 +15,5 @@ _global_script_class_icons={
 
 [application]
 
-config/name="pokemon-tutorial-video-3"
+config/name="TriangleMumble"
 run/main_scene="res://scenes/scena1.tscn"
